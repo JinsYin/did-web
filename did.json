@@ -1,0 +1,18 @@
+{
+  "id": "did:web:JinsYin.github.io:did-web",
+  "assertionMethod": [
+    {
+      "id": "did:web:JinsYin.github.io:did-web#be28dea013cbc74a8e99eb5a9d4c2be6f220b91c9db0a81451eabe6255e6977f",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:JinsYin.github.io:did-web",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "HXQkcZ9PjE1To0sCJY7KSZpoUdi_8G9F-2W021KxaYjIy9PQrv_S-rbNNAMATttU",
+        "y": "EQcYwVxX5tDx-ekUbVJSmvoQwJ1kKM-D9aW3g_o2JPf4aNQCbrjYZCU_jHtjD545",
+        "kid": "#be28dea013cbc74a8e99eb5a9d4c2be6f220b91c9db0a81451eabe6255e6977f",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
